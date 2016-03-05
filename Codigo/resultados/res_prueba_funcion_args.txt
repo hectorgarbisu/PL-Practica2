@@ -1,0 +1,12 @@
+pruebas/prueba_funcion_args.hhs :
+261 FUNC 	haha
+285 IDEN 	dameX
+285 IDEN 	x
+266 ABLO 	HA
+260 STRING 	"toma x"
+281 RETURN 	ahah
+285 IDEN 	x
+267 CBLO 	AH
+
+4 lines
+end of file

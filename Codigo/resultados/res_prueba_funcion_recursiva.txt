@@ -1,0 +1,30 @@
+pruebas/prueba_funcion_recursiva.hhs :
+261 FUNC 	haha
+285 IDEN 	factorial
+285 IDEN 	num_input
+266 ABLO 	HA
+268 COND 	Ha
+264 APAR 	ha
+257 INT 	1
+272 MAYORIGU 	XD
+285 IDEN 	num_input
+265 CPAR 	ah
+266 ABLO 	HA
+281 RETURN 	ahah
+257 INT 	1
+267 CBLO 	AH
+281 RETURN 	ahah
+285 IDEN 	num_input
+275 MULTI 	aaa
+264 APAR 	ha
+285 IDEN 	factorial
+264 APAR 	ha
+285 IDEN 	num_input
+278 RESTA 	hh
+257 INT 	1
+265 CPAR 	ah
+265 CPAR 	ah
+267 CBLO 	AH
+
+7 lines
+end of file
